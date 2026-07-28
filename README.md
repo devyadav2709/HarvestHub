@@ -145,7 +145,7 @@ HarvestHub/
 ## 📸 Screenshots
 
 ### Loading Animation
-![Loading Animation](screenshots/loading-animation.png)
+![Loading Animation](https://github.com/user-attachments/assets/c74bb012-cb38-4b2c-a94e-2eccfdd1e548)
 
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/13b3fa19-5040-45c0-943c-048b0d8b8eff)
