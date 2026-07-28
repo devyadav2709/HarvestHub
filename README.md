@@ -148,7 +148,7 @@ HarvestHub/
 ![Loading Animation](screenshots/loading-animation.png)
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](https://github.com/user-attachments/assets/13b3fa19-5040-45c0-943c-048b0d8b8eff)
 
 *(More screenshots — farmer dashboard, bidding flow, payment — coming soon.)*
 
